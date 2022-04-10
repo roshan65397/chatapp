@@ -1,4 +1,5 @@
 <?php
+// here is hostname, username,database name
   $hostname = "localhost";
   $username = "root";
   $password = "";
